@@ -1,0 +1,17 @@
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\LetsTravelApp.DataAccessLayer.dll.config
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\LetsTravelApp.DataAccessLayer.dll
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\LetsTravelApp.DataAccessLayer.pdb
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\EntityFramework.dll
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\EntityFramework.xml
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Release\LetsTravelApp.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Release\LetsTravelApp.DataAccessLayer.Migrations.RaitingAdded.resources
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Release\LetsTravelApp.DataAccessLayer.csproj.GenerateResource.Cache
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Release\LetsTravelApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Release\LetsTravelApp.DataAccessLayer.dll
+D:\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Release\LetsTravelApp.DataAccessLayer.pdb

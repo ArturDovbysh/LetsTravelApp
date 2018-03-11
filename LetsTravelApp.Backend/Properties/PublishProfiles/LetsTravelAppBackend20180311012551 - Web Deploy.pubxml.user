@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAawHVAT6Z5EawaKNSesriVgAAAAACAAAAAAAQZgAAAAEAACAAAACVLuF3xdvRuRB9d+uGD9ah+GtDzSodZO6qTT8kTa49TQAAAAAOgAAAAAIAACAAAAAXKWk/LU2Ih2EaY9TLw0GPv50+18CZN6cBpL+sQmZWCIAAAADsf6+1ONN07gsyVlo1mf3C8i2dKVg1gDj+/hIBCaQ4wmT6/ouy0wD42oEe38qM602RlV+hynl87inyJCcSeZX2Z7wseKoCllATU03Vmbf36ADg/G+finYmO6amSoIRYpBsmKzfH4UPF0ZSwB3WAmKYIpVMi/J2wNOnSQT6vn8fvUAAAADA3x4J+1s1bOhllGRwfekV/0KSgHv4rMXF/HALW/AN7zAY5YPJu1yVdEujMzztFdEcky3HzbYvkiUUVsF5BYdu</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=tcp:letstravel.database.windows.net,1433;Initial Catalog=LetsTravelAppBackend20180311012551_db;User Id=TravelAdmin@letstravel;Password=Sparta199710" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:letstravelappbackend20180311012551dbserver.database.windows.net,1433;Initial Catalog=TripsDB;User Id=TripAdmin@letstravelappbackend20180311012551dbserver;Password=Sparta199710" />
+  </ItemGroup>
+</Project>

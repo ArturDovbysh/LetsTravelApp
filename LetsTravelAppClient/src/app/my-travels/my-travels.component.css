@@ -1,0 +1,19 @@
+li{
+    list-style-type: none;
+}
+
+div{
+    border: none !important;
+}
+
+.myFooter {
+    /* position: absolute; */
+    bottom: 0;
+    width:100%;
+    text-align: center;
+}
+
+#card-center{
+    left : 35%;
+    right : 35%;
+}

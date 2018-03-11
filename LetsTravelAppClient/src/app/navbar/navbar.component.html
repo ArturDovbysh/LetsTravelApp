@@ -1,0 +1,36 @@
+<nav>
+    <div class="nav-wrapper">
+        <a id="bar" href="#" data-activates="mobile-demo" class="button-collapse right"><i class="material-icons">menu</i></a>  
+      <a href="#" class="brand-logo left flow-text">
+        <i class="material-icons">flight</i>
+       <span *ngIf="userClaims" class="flow-text"><b>{{userClaims.UserName}}</b></span><span class="flow-text"><b>, enjoy LetsTravel!</b></span>
+      </a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li>
+          <a (click)="Home()">Home</a>
+        </li>
+        <li>
+           <!-- <a (click)="GetUserTravels()")>My travels</a> -->
+          <a (click)="GetMyTravels()">My travels</a>
+        </li>
+        <li>
+            <a (click)="GetUsersList()">Other travelers</a>
+        </li>
+        <li>
+          <a (click)="ProfileSettings()">Profile</a>
+        </li>
+        <li>
+          <a (click)="Logout()">Logout</a>
+        </li>  
+      </ul>
+      <ul class="side-nav" id="mobile-demo">
+        <li><a (click)="Home()">Home</a></li>
+        <li><a href="#">My travels</a></li>
+        <li><a (click)="GetUsersList()">Other travelers</a></li>
+        <li><a (click)="ProfileSettings()">Profile</a></li>
+        <li><a (click)="Logout()">Logout</a></li>
+      </ul>
+  </div>
+</nav>
+
+  

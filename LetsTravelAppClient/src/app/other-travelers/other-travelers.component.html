@@ -1,0 +1,18 @@
+<app-navbar></app-navbar>
+<div class="container">
+    <div class="collection">
+      <div class="row">
+         <li class="collection-header col s12 center red lighten-1 myBorder"><h4><b>Other travelers</b></h4></li>
+      </div>
+      <div class="row myBorder">
+        <!-- <li  class="myBorder" style="list-style-type: none;"> -->
+            <a *ngFor="let user of users" (click)="RedirectToUser(user)" class="collection-item">{{ user }}</a>
+        <!-- </li>   -->
+      </div>        
+    </div>
+</div>
+
+<div class="myFooter">
+    <app-footer></app-footer>
+</div>
+

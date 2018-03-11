@@ -1,0 +1,40 @@
+<div class="container red-text">
+    <div id="map">
+        <h2 class="center">Where do you want to go ?</h2>
+        <label class="red-text" style="font-size:14px;">Enter city name</label>
+        <input id="txtHome" type="text" #search>
+        <agm-map [latitude]="latitude" [longitude]="longitude"  [zoom]="zoom">
+                <agm-marker [latitude]="latitude" [longitude]="longitude"></agm-marker>
+        </agm-map>
+    </div>
+    <div class="row">
+        <div class="col s12 ">
+            <span class="flow-text">Start date : </span><input class="validate" id="startDate" type="date" required><br>
+        </div>
+    </div>
+    <div class="row">
+            <div class="col s12">
+                <span class="flow-text">End date : </span><input class="validate" id="endDate" type="date" required><br>
+            </div>
+    </div>
+    <div class="row">
+        <div class="col s12">
+            <span class="flow-text">Your comment : </span><input class="validate" id="comment" type="text" required><br>
+        </div>
+    </div>
+        <div class="input-field col s12">
+                <select id="raiting">
+                    <option value="" disabled selected>Choose your Raiting</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">2</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+        </div>
+    <div class="row">
+        <div class="col s12">
+            <a class="waves-effect waves-light btn" (click)="AddNewTrip()">Add trip</a>
+        </div>
+    </div> 
+</div>

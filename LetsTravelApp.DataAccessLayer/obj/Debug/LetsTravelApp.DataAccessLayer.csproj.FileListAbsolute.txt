@@ -1,0 +1,16 @@
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\LetsTravelApp.DataAccessLayer.dll.config
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\LetsTravelApp.DataAccessLayer.dll
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\LetsTravelApp.DataAccessLayer.pdb
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Debug\LetsTravelApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Debug\LetsTravelApp.DataAccessLayer.dll
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Debug\LetsTravelApp.DataAccessLayer.pdb
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Debug\LetsTravelApp.DataAccessLayer.Migrations.RaitingAdded.resources
+D:\Work\LetsTravelApp\LetsTravelApp.DataAccessLayer\obj\Debug\LetsTravelApp.DataAccessLayer.csproj.GenerateResource.Cache

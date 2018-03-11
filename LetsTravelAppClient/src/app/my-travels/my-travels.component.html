@@ -1,0 +1,40 @@
+<app-navbar></app-navbar>
+
+<div class="container no-border">
+  <div class="collection no-border">
+    <div class="row">
+       <li class="collection-header col s12 center red lighten-1"><h4><b>My trips</b></h4></li>
+    </div>
+    <div class="row">
+      <h4 class="center red-text" *ngIf="!anyTrips">You havent any trips! Please, try to one add at home page!</h4>
+        <li *ngFor="let travel of myTravels">
+            <div class="col s12 m7">
+                <div id="card-center" class="card horizontal">
+                  <div class="card-stacked">
+                    <div class="card-content">
+                      <span class="flow-text">County : {{ travel.Country }}</span>
+                      <br>
+                      <span class="flow-text">City : {{ travel.City }}</span>
+                      <br>
+                      <span class="flow-text">Start date : {{ travel.StartDate }}</span>
+                      <br>
+                      <span class="flow-text">End date : {{ travel.EndDate }}</span>
+                      <br>
+                      <span class="flow-text">Comment : {{ travel.Comment }}</span>
+                      <br>
+                      <span class="flow-text">Raiting : {{travel.Raiting}}</span>
+                    </div>
+                    <div class="card-action center">
+                      <a class="waves-effect waves-light btn" (click)="AddComment(travel.Id)">Update comment</a>
+                      <a class="waves-effect waves-light btn" (click)="DeleteTrip(travel.Id)">Delete</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </li>
+    </div>        
+  </div>
+</div>
+<div id="footik" class="myFooter">
+  <app-footer></app-footer>
+</div>
