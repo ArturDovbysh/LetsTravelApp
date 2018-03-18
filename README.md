@@ -17,4 +17,4 @@ To run client localy -> folow next steps :
 
 For more info about Angular CLI [go here](https://github.com/angular/angular-cli)
 
-You can also use [this link](https://letstravelapp.azurewebsites.net/login) to see how application works.
+You can also use [this link](https://letstravelapp.azurewebsites.net) to see how application works.
